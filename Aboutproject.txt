@@ -1,0 +1,19 @@
+1. Overview of the Main Component: The React virtual classroom interface is represented by the `Main component.
+
+2. Parts: Headers, navigation, and a student container with control icons and a video are all included.
+
+3. Headings: Contact information, support details, and course information are displayed in the headers section.
+
+4. Route: Links to several classroom resources, including presentations, videos, papers, and whiteboards, may be found in the navigation area.
+
+5. Container for Students: Student photos, control symbols, and a section specifically for video material are all displayed in the student container section.
+
+6. Symbols: Students may use control icons to raise their hands, exit the classroom, share, manage their video, microphone, and chat.
+
+7. Photos: Links to placeholder photos from Pixabay are used to show student images.
+
+8. Responsiveness Issue: Take note that responsiveness is not handled by the current implementation.
+CSS Modules: For scoped styling, styles are applied using CSS Modules.
+
+Dependencies: It requires the presence of a main.module.css file for style and depends on a Video component.
+
